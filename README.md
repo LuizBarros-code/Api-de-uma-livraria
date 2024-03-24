@@ -1,1 +1,1 @@
-Esse api de uma livraria e responsavel pelo crud(create,read,update,delete) de um banco de dados de uma livraria. feito em javascript e o framework express. usando o banco de dados não relacional mongoDB.
+Esse api de uma livraria e responsavel pelo crud(create,read,update,delete) de um banco de dados de uma livraria. feito em node.js(javascript), utilizando o framework express. no quesito banco de dados foi usado o mongoDB.
